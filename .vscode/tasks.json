@@ -1,0 +1,20 @@
+{
+    // This is a configuration file for debugging C++ code.
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "g++.exe build active file",
+            "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "C:\\mingw-w64\\mingw64\\bin"
+            }
+        }
+    ],
+    "version": "2.0.0"
+}

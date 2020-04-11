@@ -1,0 +1,26 @@
+
+**********************************************************************************
+Command to check if the g++ compiler is installed:
+    - Open the command prompt in Windows
+    - Type the following: g++ --version
+
+**********************************************************************************
+Get Going with Git:
+https://git-scm.com/video/get-going
+
+**********************************************************************************
+Difference between an expression and a statement:
+
+    Expressions – They DO NOT require a semicolon at the end.
+
+    Statement – Require a semicolon at the end.
+
+**********************************************************************************
+Initialize -- To give a value to a variable.
+
+**********************************************************************************
+
+
+
+
+**********************************************************************************
