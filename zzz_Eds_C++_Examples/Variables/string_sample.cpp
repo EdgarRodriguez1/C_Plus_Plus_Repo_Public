@@ -2,6 +2,7 @@
 /* By Ed */
 //iostream used for inputting and outputting
 #include <iostream>
+#include <string> // Don't forget to include the 'string' library to use the 'string' data type
 using namespace std;
 
 //Main is always the first to run
