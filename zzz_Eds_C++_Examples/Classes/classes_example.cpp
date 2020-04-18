@@ -8,6 +8,8 @@
 using namespace std;
 
 /*
+What are Classes?
+
 Classes allow you to group together all your crap (things 
 like related functions, variables, etc).
 For example, in a game, you can group all your functions
@@ -21,7 +23,7 @@ Anything that you can do with Classes you can also do without Classes!
 // Create/declare a Class
 class EdsFunClass {
 
-    // Access specifier (the visibility) can PUBLIC or PRIVATE.
+    // Access specifier (the visibility) can be PUBLIC or PRIVATE.
     // PUBLIC -- Can be accessed by int main().
     // PRIVATE -- Can't be accessed by int main(). By default, a Class makes everything private.
 

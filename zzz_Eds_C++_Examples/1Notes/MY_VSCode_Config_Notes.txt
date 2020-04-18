@@ -1,0 +1,13 @@
+**********************************************************************************
+Change the number of lines shown in Visual Studio Code's built-in Terminal:
+
+1. file-->preferences-->settings
+
+2. search "Integrated terminal", and then scroll down until you see "terminal.integrated.scrollback"
+
+3. Change numbers of line as you want.
+**********************************************************************************
+
+
+
+**********************************************************************************
